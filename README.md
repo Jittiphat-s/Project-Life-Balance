@@ -7,7 +7,7 @@ LifeBalance transforms daily wellness into a game.
 Users complete health missions, earn XP, level up, and unlock rewards — making healthy habits engaging and motivating.
 
 ## Features
-- 🎯 Daily health missions (hydration, steps, sleep goals)
+- 🎯 Daily health missions (e.g., hydration, steps, sleep goals)
 - ⭐ XP & Level system to track progress
 - 🏅 Reward badges for achievements
 - 🧑‍💻 Personalized goals based on age, lifestyle, and health targets
