@@ -1,17 +1,28 @@
-# project_life_balance
+# LifeBalance
 
-A new Flutter project.
+LifeBalance: Flutter-based gamified health companion app
+
+## Overview
+LifeBalance transforms daily wellness into a game.  
+Users complete health missions, earn XP, level up, and unlock rewards — making healthy habits engaging and motivating.
+
+## Features
+- 🎯 Daily health missions (e.g., hydration, steps, sleep goals)
+- ⭐ XP & Level system to track progress
+- 🏅 Reward badges for achievements
+- 🧑‍💻 Personalized goals based on age, lifestyle, and health targets
+- 📊 Dashboard with clear visualization of progress
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Visual Studio with **Desktop development with C++** workload (for Windows builds)
+- Android Studio or Xcode (for mobile builds)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+Clone the repository:
+```bash
+git clone https://github.com/Jittiphat-s/Project-Life-Balance.git
+cd Project-Life-Balance
+flutter pub get
